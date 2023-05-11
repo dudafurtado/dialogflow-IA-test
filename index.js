@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 require('dotenv').config();
 
-const { sendMessageToIa } = require('./controllers/apiController');
+const { sendMessageToIa } = require('./src/controllers/apiController');
 
 // app.use(express.urlencoded({
 //     extended: true
