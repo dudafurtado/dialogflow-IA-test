@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "weedo-it-ia-test-9qkb",
+  "private_key_id": "74097037d02c31d3a756f236efa28e256cc87fff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDn19+6jtlDqBxl\n+30nglo6YQiBrdRURCpMjXt0SyWyPLWVj0Hjz/7yIWHzrAdzoEBBt1xiGbgcQU5f\ncdPiyUM3PtAJI53UGnSvcjFrwwL4ZRYouK5knV6BcZ9L5Jd2acPzpGzKsznI6QLg\neEji2TG++ovxhUB8o3D/XIz6N0DWjtxD7NYEVAfW0aeB1QPmvphU2FKC5DzsGrwq\nRt7Z3tPx7PXaq92Be03Um6dXDhS6v6oITlWKG+u0Ds96GvSKx9UxePJ2/Wo1kHuN\nqV9FgDqhWYVpZxtkGlGIo3sw6Zvo5NjPciuy4tqpGeVKTfS+dJ5hBM0tYxBuSZEw\n6ddZgEm9AgMBAAECggEAClJiV84xzpEOuJyeeRKU3UoCJLHeROUnA/L9ltMcqceJ\npw+ydYfGWDXTxFM5nrR4/+P/tS9jcsCWkmnBLvTabPx7Kxj+lxmZbdE18ZAEUxY/\nCw+T1g9qjHVITArwkllJm9CLdmfN0AvNsLwyNIVKcW/6qIVP9myZZIkUjrREivjK\nDzqjfNm9wsFAbnagi2umhRcMip3rrL+rlSi8DlC1dQDJNqD0AO0RWqvRVAwAkx3E\ncb4zU8b1j2dhNpIS9d6r23yQwrVQQemNZju98HW/MkaU0xo1XtYJEsv+T30B5J0U\nMYDHwrgC/ahfpgEc4CvSVoCTfPgxH/myppga8xgVsQKBgQD+zhivChHmssjl7dvd\npbKpM7+ygEFg9/m25sQwrqQnPfwsUn7ub7qXuIXY3WV04GHezU0Z+FhTHdiKA5r2\n4yU3PSWIcocv8ghu7XowCbDkbFLBYXpZW6Fk8bJ4SkhpGgOH6oe59A8B0IW8Qd2g\nm0iVsM0+41k6oaQqJvDLICRKjQKBgQDo7jYBg5foBeqwczg2BV35owgH5oTqJwf2\nx6OmuocBZWo4gdJgMn66prKNUa/DtLJH80mcb14CPIEaMKgVsz/CX8TRG8WcwLUk\nRKkJ4g8FfESXRJ2Cna42JsLwY71DbIye/xuvwUKkj4xNf8jYgqiOdi9w2UzWYIBo\n1XuIk41H8QKBgQCon+XP+P8NyGWRXI8zqNOKjFehnqUlshXNB/zwJrM10RyQjGu6\nCbDXdWMGuMXKyi+azgznUeXJ46eI9ofYOUxIuSucmAaFIUyZdIl3PwKUuGcv2P2q\nIyy07Arq9mXjQDbz/K6jzjMcRU4r3v73qawofB/oLXbAiXZl+u1Bz9yUhQKBgC/2\ntUo0hbgyV7RD1YRSMJqx9nph/maU6O/pBgrUB+7Cqk++c8p5O11F7ChrdKzw7XEh\naLv8trfxK4hwEnx9b5ifzdBdTqDLkcFJHiG52ewAPcOETobR30ipTKThdNyIYqBu\n2Y2kVwu5v2NJ99qVdQ34yiYLqOXP80EjDJAACiyRAoGBANxjWCTn6yvNrPCJtgKs\nKi5OkgZv2SvtsJ/n/qAy4zLiuv8zRv+eeGeReM27B2yx48r8SxA5HCNGwIpIWB/7\nxvBn2Uz2BUelJHeLt2b0ADIR0ivQpL9V+Na6J/rwsxA2N8nVXSRjwmG5rm+H2oGw\nT89Z1Wf5TqWyL3LJCAeEH3A6\n-----END PRIVATE KEY-----\n",
+  "client_email": "weedo-it-ia-test@weedo-it-ia-test-9qkb.iam.gserviceaccount.com",
+  "client_id": "104412616614855750059",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/weedo-it-ia-test%40weedo-it-ia-test-9qkb.iam.gserviceaccount.com"
+}
