@@ -8,9 +8,9 @@ const sendMessageToIa = async (req, res) => {
   try {
     const { languageCode, queryText, sessionId } = req.body;
 
-    const responseData = await detectIntent(languageCode, queryText, sessionId);
+    const responseIa = await detectIntent(languageCode, queryText, sessionId);
 
-    responseWithSuccess(res, responseData.response);
+    responseWithSuccess(res, responseIa);
   } catch (error) {
     responseWithError(res, error)
   }

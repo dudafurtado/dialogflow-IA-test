@@ -7,6 +7,7 @@ const { sendMessageToIa } = require('./src/controllers/apiController');
 // app.use(express.urlencoded({
 //     extended: true
 // }));
+
 app.use(express.json());
 
 app.post('/dialogflow', sendMessageToIa);
