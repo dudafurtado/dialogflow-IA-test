@@ -12,4 +12,4 @@ app.use(express.json());
 
 app.post('/dialogflow', sendMessageToIa);
 
-app.listen(process.env.PORT || 5000);
+app.listen(5000);
